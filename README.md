@@ -1,2 +1,2 @@
 # Superstore-Sales-Dashboard
-Sales and transactional Dataset of a Global Superstore analysed in a crisp and visually easy to understand manner 
+Sales and transactional dataset of a Global Superstore alongwith the product specifications analysed in a crisp and visually easy to understand format.
